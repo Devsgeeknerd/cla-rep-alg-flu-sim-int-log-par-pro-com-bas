@@ -1,0 +1,45 @@
+<!-- Título -->
+# Representação de Algoritmos — Fluxograma ou Simbologia
+
+***Conteúdo da Aula:***
+
+Fluxograma é a utilização de símbolos gráficos para representar algoritmos.
+
+No fluxograma, existem símbolos padronizados para início, fim, cálculos, entrada e saída de dados.
+
+Veja alguns destes símbolos:
+
+![Símbolos](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId85odsg91s.0r2.gif)
+
+Por exemplo:
+
+![Exemplo](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId98z4s12gd.f7t.gif)
+
+O fluxograma acima poderia ser traduzido para a seguinte narrativa:
+
+* Obter o número digitado pelo usuário;
+* Multiplicar o número digitado por 2;
+* Exibe o resultado da operação na tela.
+
+A grande vantagem de utilizar fluxograma para representar um programa é porque se trata de padrão mundial.
+
+Então, mesmo que não se compreenda o texto em cada campo, sera possível ter uma ideia do que ele faz.
+
+Mas, assim como a forma narrativa, também tem desvantagens, sendo a principal fazer com que a solução do problema já esteja amarrada a dispositivos físicos - pouca atenção aos dados, não oferecendo recursos para descrevê-los ou representá-los, complicando-se à medida que o algoritmo cresce.
+
+<!-- Informações -->
+## Informações
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-rep-alg-flu-sim-int-log-par-pro-com-bas&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
+&nbsp;
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas?style=p&label=Observadores&labelColor=f9e64f&color=008000 "Total de Observadores")
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
+&nbsp;
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
+&nbsp;
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
+&nbsp;
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
