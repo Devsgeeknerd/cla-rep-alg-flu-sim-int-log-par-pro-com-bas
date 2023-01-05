@@ -11,9 +11,9 @@ Veja alguns destes símbolos:
 
 ![Símbolos](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId85odsg91s.0r2.gif)
 
-Por exemplo:
+Por Exemplo:
 
-![Exemplo](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId98z4s12gd.f7t.gif)
+![Símbolos](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId98z4s12gd.f7t.gif)
 
 O fluxograma acima poderia ser traduzido para a seguinte narrativa:
 
@@ -23,12 +23,12 @@ O fluxograma acima poderia ser traduzido para a seguinte narrativa:
 
 A grande vantagem de utilizar fluxograma para representar um programa é porque se trata de padrão mundial.
 
-Então, mesmo que não se compreenda o texto em cada campo, sera possível ter uma ideia do que ele faz.
+Então, mesmo que não se compreenda o texto em cada campo, será possível ter uma ideia do que ele faz.
 
-Mas, assim como a forma narrativa, também tem desvantagens, sendo a principal fazer com que a solução do problema já esteja amarrada a dispositivos físicos - pouca atenção aos dados, não oferecendo recursos para descrevê-los ou representá-los, complicando-se à medida que o algoritmo cresce.
+Mas, assim como a forma narrativa, também tem desvantagens, sendo a principal fazer com que a solução do problema já esteja amarrada a dispositivos físicos – pouca atenção aos dados, não oferecendo recursos para descrevê-los ou representá-los, complicando-se à medida que o algoritmo cresce.
 
 <!-- Informações -->
-## Informações
+## &#8505; Informações
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-rep-alg-flu-sim-int-log-par-pro-com-bas&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
