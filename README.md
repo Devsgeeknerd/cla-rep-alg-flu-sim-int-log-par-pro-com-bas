@@ -36,9 +36,7 @@ Mas, assim como a forma narrativa, também tem desvantagens, sendo a principal f
 &nbsp;
 ![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
-&nbsp;
-![Forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
