@@ -9,11 +9,11 @@ No fluxograma, existem símbolos padronizados para início, fim, cálculos, entr
 
 Veja alguns destes símbolos:
 
-![Símbolos](https://camo.githubusercontent.com/2996dac5cd663d35c3375b3e5557a04396ca0a801747a1528cd704af796a435b/68747470733a2f2f643276307832367468627a6c77662e636c6f756466726f6e742e6e65742f70726f642f31342f696d672f72496438356f6473673931732e3072322e676966 "Fluxograma de símbolos")
+![Símbolos](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId85odsg91s.0r2.gif "Fluxograma de símbolos")
 
 Por exemplo:
 
-![Fluxograma](https://camo.githubusercontent.com/12d9f696b07840bcb6152edc8263839a5adb20fbf4f409d31933e8db3b33cd1c/68747470733a2f2f643276307832367468627a6c77662e636c6f756466726f6e742e6e65742f70726f642f31342f696d672f72496439387a3473313267642e6637742e676966 "Fluxograma")
+![Fluxograma](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId98z4s12gd.f7t.gif "Fluxograma")
 
 O fluxograma acima poderia ser traduzido para a seguinte narrativa:
 
